@@ -1,0 +1,42 @@
+Artificial  Intelligence
+    1. Types
+        Artificial Intelligence (AI) - Humans
+        Machine Learning (ML) - Thoughts
+        Deep Learning (DL) - Brain
+    2. Definition
+        Learn from Data & Solves problem
+            1. Strong AI
+            2. Weak AI
+    3. Data & Concepts
+        1. Human can analyze, Identify pattern & Make decisions
+            -> Numerical Data
+                Machine Learning & Deep Learning
+        2. Human can listen & speak
+            -> Text/Audio Data
+                Machine Learning & Natural language processing
+        3. Human can see & recognize
+            -> Image/video Data
+                Computer vision & Deep Learning
+
+Clarity about studies
+    1. Data Analytics
+        -> Analyze the data provided and make the perfect dashboard for easy viewing.
+    2. Machine Learning
+    3. Deep Learning
+    These 3 are data science
+
+
+Road map to become Data Scientist
+    1. Excel
+    2. Statistics
+    3. Prpgramming language - python
+    4. Data visualization
+    5. Numpy & Pandas
+    6. Matplotlib & Seaborn
+    7. BI Tools - 
+    8. Database - MySQLi and MongoDB
+    9. Machine Learning
+    10. Deep Learning
+    
+
+    
